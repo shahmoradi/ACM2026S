@@ -1,0 +1,14 @@
+
+callback([
+
+  {
+    "text": "Announcement 1: Student-professor connection day",
+    "href": "/ACM2025S/announcement/1-student-professor-connection-day"
+  } ,
+
+  {
+    "text": "Announcement 0: Survey",
+    "href": "/ACM2025S/announcement/0-survey"
+  } 
+
+])
