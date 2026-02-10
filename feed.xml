@@ -7,13 +7,75 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2026S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2026S/" />
-<updated>2026-02-08T23:22:13-06:00</updated>
+<updated>2026-02-09T21:32:59-06:00</updated>
 <id>http:/ACM2026S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/ACM2026S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 1]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2026S/quiz/1"/>
+  <id>http:/ACM2026S/quiz/1</id>
+  <published>2026-02-08T00:00:00-06:00</published>
+  <updated>2026-02-08T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2026S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;This quiz is open-lecture&lt;/strong&gt;, however, you are &lt;strong&gt;not&lt;/strong&gt; allowed to consult other resources or people.&lt;br /&gt;
+You have 60 minutes to respond to the questions and submit your answers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Show that the following identity follows directly from the Pythagorean theorem:&lt;br /&gt;
+&lt;br /&gt;
+\(\sin^2 \theta + \cos^2 \theta = 1\)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prove the following identity:&lt;br /&gt;
+&lt;br /&gt;
+\(\sin(\alpha \pm \beta) = \sin(\alpha) \cos(\beta) \pm \cos(\alpha) \sin(\beta)\)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prove the following identities hold:&lt;br /&gt;
+a.  The double cross-product identity (also known as the bac-cab rule):&lt;br /&gt;
+    &lt;br /&gt;
+    \({\bf a} \times ({\bf b} \times {\bf c}) = {\bf b} ({\bf a} \cdot {\bf c}) - {\bf c} ({\bf a} \cdot {\bf b})\)&lt;br /&gt;
+    &lt;br /&gt;
+b.  The alternate double cross-product identity:&lt;br /&gt;
+    &lt;br /&gt;
+    \(({\bf a} \times {\bf b}) \times {\bf c} = {\bf b} ({\bf a} \cdot {\bf c}) - {\bf a} ({\bf b} \cdot {\bf c})\)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How many scalar multiplications are generally involved in the multiplication of two square matrices of rank $n$?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write down the set of equations that convert a Cylindrical coordinate triplet to a Spherical triplet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Show that $(\mathbf{a} \times \mathbf{b})^2 = a^2b^2 - (\mathbf{a} \cdot \mathbf{b})^2$.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/quiz/1&quot;&gt;Quiz 1&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 08, 2026.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

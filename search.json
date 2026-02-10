@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 1",
+		  "category"   : "",
+		  "url"        : "/ACM2026S/quiz/1",
+		  "date"       : "2026-02-08 00:00:00 -0600",
+		  "shortdate"  : "February 08, 2026"
+		} ,
+	
+		{
 		  "title"      : "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
 		  "category"   : "",
 		  "url"        : "/ACM2026S/lecture/1",

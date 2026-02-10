@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 1",
+    "href": "/ACM2026S/quiz/1"
+  } ,
+
+  {
     "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
     "href": "/ACM2026S/lecture/1"
   } ,
