@@ -7,6 +7,11 @@ callback([
   } ,
 
   {
+    "text": "Quartet 2: Newtonian Statics and Dynamics",
+    "href": "/ACM2026S/lecture/2"
+  } ,
+
+  {
     "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
     "href": "/ACM2026S/lecture/1"
   } ,
