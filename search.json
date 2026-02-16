@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Quartet 2: Newtonian Statics and Dynamics",
 		  "category"   : "",
-		  "url"        : "/lecture/2",
+		  "url"        : "/ACM2026S/lecture/2",
 		  "date"       : "2026-02-09 00:00:00 -0600",
 		  "shortdate"  : "February 09, 2026"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Homework 2: Newtonian Statics and Dynamics",
 		  "category"   : "",
-		  "url"        : "/homework/2",
+		  "url"        : "/ACM2026S/homework/2",
 		  "date"       : "2026-02-09 00:00:00 -0600",
 		  "shortdate"  : "February 09, 2026"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Quiz 1",
 		  "category"   : "",
-		  "url"        : "/quiz/1",
+		  "url"        : "/ACM2026S/quiz/1",
 		  "date"       : "2026-02-08 00:00:00 -0600",
 		  "shortdate"  : "February 08, 2026"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
 		  "category"   : "",
-		  "url"        : "/lecture/1",
+		  "url"        : "/ACM2026S/lecture/1",
 		  "date"       : "2026-01-14 00:00:00 -0600",
 		  "shortdate"  : "January 14, 2026"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "Homework 1: Mathematical Foundations &amp; Problem-Solving Techniques",
 		  "category"   : "",
-		  "url"        : "/homework/1",
+		  "url"        : "/ACM2026S/homework/1",
 		  "date"       : "2026-01-14 00:00:00 -0600",
 		  "shortdate"  : "January 14, 2026"
 		} ,
@@ -43,7 +43,7 @@
 		{
 		  "title"      : "Announcement 1: Student-professor connection day",
 		  "category"   : "",
-		  "url"        : "/announcement/1-student-professor-connection-day",
+		  "url"        : "/ACM2026S/announcement/1-student-professor-connection-day",
 		  "date"       : "2025-01-16 00:00:00 -0600",
 		  "shortdate"  : "January 16, 2025"
 		} ,
@@ -51,7 +51,7 @@
 		{
 		  "title"      : "Announcement 0: Survey",
 		  "category"   : "",
-		  "url"        : "/announcement/0-survey",
+		  "url"        : "/ACM2026S/announcement/0-survey",
 		  "date"       : "2025-01-14 00:00:00 -0600",
 		  "shortdate"  : "January 14, 2025"
 		} 

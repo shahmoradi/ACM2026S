@@ -3,37 +3,37 @@ callback([
 
   {
     "text": "Quiz 1",
-    "href": "/quiz/1"
+    "href": "/ACM2026S/quiz/1"
   } ,
 
   {
     "text": "Quartet 2: Newtonian Statics and Dynamics",
-    "href": "/lecture/2"
+    "href": "/ACM2026S/lecture/2"
   } ,
 
   {
     "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
-    "href": "/lecture/1"
+    "href": "/ACM2026S/lecture/1"
   } ,
 
   {
     "text": "Homework 2: Newtonian Statics and Dynamics",
-    "href": "/homework/2"
+    "href": "/ACM2026S/homework/2"
   } ,
 
   {
     "text": "Homework 1: Mathematical Foundations & Problem-Solving Techniques",
-    "href": "/homework/1"
+    "href": "/ACM2026S/homework/1"
   } ,
 
   {
     "text": "Announcement 1: Student-professor connection day",
-    "href": "/announcement/1-student-professor-connection-day"
+    "href": "/ACM2026S/announcement/1-student-professor-connection-day"
   } ,
 
   {
     "text": "Announcement 0: Survey",
-    "href": "/announcement/0-survey"
+    "href": "/ACM2026S/announcement/0-survey"
   } 
 
 ])
