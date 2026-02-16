@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/ACM2026S</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>/ACM2026S/404</loc>
+        <loc>/404</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/about/index.html</loc>
+        <loc>/about/index.html</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/categories/index.html</loc>
+        <loc>/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/feed.xml</loc>
+        <loc>/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/highlights/</loc>
+        <loc>/highlights/</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/</loc>
+        <loc>/</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/links.jsonp</loc>
+        <loc>/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/search.json</loc>
+        <loc>/search.json</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/sitemap.xml</loc>
+        <loc>/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/tags/index.html</loc>
+        <loc>/tags/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>/ACM2026S/lecture/2</loc>
+        <loc>/lecture/2</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/homework/2</loc>
+        <loc>/homework/2</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/quiz/1</loc>
+        <loc>/quiz/1</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/lecture/1</loc>
+        <loc>/lecture/1</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/homework/1</loc>
+        <loc>/homework/1</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/announcement/1-student-professor-connection-day</loc>
+        <loc>/announcement/1-student-professor-connection-day</loc>
     </url>
     
     <url>
-        <loc>/ACM2026S/announcement/0-survey</loc>
+        <loc>/announcement/0-survey</loc>
     </url>
     
 </urlset>
