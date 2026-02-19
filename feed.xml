@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2026S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2026S/" />
-<updated>2026-02-17T19:54:50-06:00</updated>
+<updated>2026-02-18T20:54:36-06:00</updated>
 <id>http:/ACM2026S/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -55,16 +55,7 @@
   
   <content type="html">
   
-    
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The following figure illustrates the grade distribution for this activity.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;http:/ACM2026S/homework/hw2.png&quot; width=&quot;700&quot; /&gt;
-    &lt;figcaption style=&quot;text-align:center&quot;&gt;
-        Maximum possible points is 100 (excluding extra credit).
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday February 23, 2026 at 4:00 PM&lt;/strong&gt;.&lt;/p&gt;
 
@@ -74,10 +65,10 @@ When returning your answers, mark the two sets with the lecture note number to m
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;../lecture/acm3.pdf&quot; target=&quot;_blank&quot;&gt;acm3.pdf&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;../lecture/acm4.pdf&quot; target=&quot;_blank&quot;&gt;acm4.pdf&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm5.pdf&quot; target=&quot;_blank&quot;&gt;acm5.pdf&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
 
   
   &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/homework/2&quot;&gt;Homework 2: Newtonian Statics and Dynamics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on February 09, 2026.&lt;/p&gt;</content>
