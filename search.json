@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 2",
+		  "category"   : "",
+		  "url"        : "/ACM2026S/quiz/2",
+		  "date"       : "2026-02-23 00:00:00 -0700",
+		  "shortdate"  : "February 23, 2026"
+		} ,
+	
+		{
 		  "title"      : "Quartet 2: Newtonian Statics and Dynamics",
 		  "category"   : "",
 		  "url"        : "/ACM2026S/lecture/2",
