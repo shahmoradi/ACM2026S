@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2026S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2026S/" />
-<updated>2026-02-23T14:58:06-07:00</updated>
+<updated>2026-02-23T15:04:13-07:00</updated>
 <id>http:/ACM2026S/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -75,7 +75,12 @@ What is the mathematical interpretation of &lt;strong&gt;immediately&lt;/strong&
 Consider the 2D Cartesian coordinate system X-Y. 
 The frame is rotated counterclockwise at an angle θ, as shown. 
 Derive a matrix multiplication equation that can transform the 
-position vector $(x,y)$ to position vector $(x’,y’)$.
+position vector $(x,y)$ to position vector $(x’,y’)$.&lt;br /&gt;
+Recall that,
+\(\begin{eqnarray}
+\sin(\alpha\pm\beta) &amp;amp;=&amp;amp; \sin\alpha \cos\beta \pm \cos\alpha \sin\beta \\
+\cos(\alpha\pm\beta) &amp;amp;=&amp;amp; \cos\alpha \cos\beta \mp \sin\alpha \sin\beta
+\end{eqnarray}\)
     &lt;figure&gt;
     &lt;img src=&quot;http:/ACM2026S/quiz/2/rotate.png&quot; width=&quot;250&quot; /&gt;
     &lt;figcaption style=&quot;text-align:center&quot;&gt;
