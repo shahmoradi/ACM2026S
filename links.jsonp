@@ -12,6 +12,11 @@ callback([
   } ,
 
   {
+    "text": "Quartet 4: Conservation Laws and Momentum",
+    "href": "/ACM2026S/lecture/4"
+  } ,
+
+  {
     "text": "Quartet 3: Newtonian Dynamics, Conservation Laws, and Gravity",
     "href": "/ACM2026S/lecture/3"
   } ,
@@ -24,6 +29,11 @@ callback([
   {
     "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
     "href": "/ACM2026S/lecture/1"
+  } ,
+
+  {
+    "text": "Homework 4: Conservation Laws and Momentum",
+    "href": "/ACM2026S/homework/4"
   } ,
 
   {
