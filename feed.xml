@@ -7,13 +7,91 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2026S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2026S/" />
-<updated>2026-03-23T11:54:45-05:00</updated>
+<updated>2026-03-26T20:52:07-05:00</updated>
 <id>http:/ACM2026S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/ACM2026S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 3]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2026S/quiz/3"/>
+  <id>http:/ACM2026S/quiz/3</id>
+  <published>2026-03-23T00:00:00-05:00</published>
+  <updated>2026-03-23T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2026S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You have 60 minutes to respond to the questions and submit your answers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Consider a bullet shot underwater with the initial velocity ${\mathbf v_0}$ 
+experiencing a resistive force ${\mathbf F} = -km{\mathbf v}$ as it moves.
+Show that the speed of the bullet at any moment is given by, $v = v_0 - kx$
+with $x$ representing the displacement since the start of the motion. &lt;strong&gt;(score : 15)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;div&gt;
+&lt;img src=&quot;http:/ACM2026S/quiz/3/platpulley.jpg&quot; width=&quot;200&quot; style=&quot;float:right;&quot; /&gt;
+A person stands on a platform and pulley system, as shown in the figure. 
+The platform, person, and pulley masses are $M$, $m$, and $\mu$, respectively. 
+The rope is massless. 
+Let the person pull up on the rope so that she accelerates $a$ upward.
+(Assume that the platform is somehow constrained to stay level, perhaps
+by having the ends run along some rails.) Find the tension in the rope,
+the normal force between the person and the platform, and the tension
+in the rod connecting the pulley to the platform (ignore rotational dynamics). 
+&lt;b&gt;(score : 35)&lt;/b&gt;  
+&lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;(a)&lt;/strong&gt; For a given initial speed, at what inclination angle should a ball be thrown 
+so that it travels the maximum horizontal distance by the time it returns to the ground?&lt;br /&gt;
+Assume that the ground is horizontal, and that the ball is released from ground level. &lt;strong&gt;(score : 15)&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;(b)&lt;/strong&gt; What is the optimal angle if the ground is sloped upward 
+at an angle $\beta$ (or downward, if $\beta$ is negative)? &lt;strong&gt;(score : 15)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;div&gt;
+&lt;img src=&quot;http:/ACM2026S/quiz/3/equaltilts.jpg&quot; width=&quot;200&quot; style=&quot;float:right;&quot; /&gt;
+A plane tilts down at an angle $\theta$ below the horizontal. On this plane, 
+a projectile is fired with speed $v$ at an angle $\theta$ above the horizontal, 
+as shown in the figure. What is the distance, $d$, along the plane that the
+projectile travels? &lt;b&gt;(score : 15)&lt;/b&gt;
+What is $d$ in the limit $\theta\rightarrow90^\circ$? &lt;b&gt;(score : 5)&lt;/b&gt;
+&lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;(&lt;strong&gt;Extra Credit - score : 20&lt;/strong&gt;) Consider a particle of mass $m$ and charge $q$ entering 
+entering a space with magnetic field of strength $B$ in the Y direction of the Cartesian 
+Coordinate system as shown in the figure. 
+Recall that the motion of a particle in magnetic field is described by the force
+\(F_B = q{\mathbf v} \times {\mathbf B} = m{\mathbf a}\)
+in which ${\mathbf v}$ represents the velocity of the particle at any given moment.
+    &lt;div&gt;
+&lt;img src=&quot;http:/ACM2026S/quiz/3/particleinb.jpg&quot; width=&quot;350&quot; style=&quot;float:right;&quot; /&gt;
+Show that the location of this particle as a function of time $t$ can be written as,
+$$\begin{eqnarray}
+    x - x_0 &amp;amp;=&amp;amp; C \cos(D t) \\
+    y - y_0 &amp;amp;=&amp;amp; {\dot y_0} t \\
+    z - z_0 &amp;amp;=&amp;amp; C \sin(D t) \\
+    {\mathbf B} &amp;amp;=&amp;amp; B_0\hat j \\
+    C &amp;amp;=&amp;amp; \frac{\frac{dz_0}{dt} m}{qB_0} \\
+    D &amp;amp;=&amp;amp; \frac{qB_0}{m} \\
+\end{eqnarray}$$
+&lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/quiz/3&quot;&gt;Quiz 3&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 23, 2026.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -62,7 +140,6 @@
   &lt;li&gt;See the following lecture notes for the homework problems. 
 When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../lecture/acm7.pdf&quot; target=&quot;_blank&quot;&gt;acm7.pdf&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;../lecture/acm6.pdf&quot; target=&quot;_blank&quot;&gt;acm6.pdf&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
