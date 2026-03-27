@@ -17,6 +17,11 @@ callback([
   } ,
 
   {
+    "text": "Quartet 5: Calculus of Variations",
+    "href": "/ACM2026S/lecture/5"
+  } ,
+
+  {
     "text": "Quartet 4: Conservation Laws and Momentum",
     "href": "/ACM2026S/lecture/4"
   } ,
@@ -34,6 +39,11 @@ callback([
   {
     "text": "Quartet 1: Mathematical Foundations and Problem Solving Strategies",
     "href": "/ACM2026S/lecture/1"
+  } ,
+
+  {
+    "text": "Homework 5: Calculus of Variations",
+    "href": "/ACM2026S/homework/5"
   } ,
 
   {
