@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 4",
+    "href": "/ACM2026S/quiz/5"
+  } ,
+
+  {
     "text": "Quiz 3",
     "href": "/ACM2026S/quiz/3"
   } ,
@@ -17,7 +22,12 @@ callback([
   } ,
 
   {
-    "text": "Quartet 5: Calculus of Variations",
+    "text": "Quartet 6: Oscillations",
+    "href": "/ACM2026S/lecture/6"
+  } ,
+
+  {
+    "text": "Quartet 5: Calculus of Variations and Lagrangian Mechanics",
     "href": "/ACM2026S/lecture/5"
   } ,
 
@@ -42,7 +52,12 @@ callback([
   } ,
 
   {
-    "text": "Homework 5: Calculus of Variations",
+    "text": "Homework 6: Oscillations",
+    "href": "/ACM2026S/homework/6"
+  } ,
+
+  {
+    "text": "Homework 5: Calculus of Variations and Lagrangian Mechanics",
     "href": "/ACM2026S/homework/5"
   } ,
 

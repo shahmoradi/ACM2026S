@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/ACM2026S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/ACM2026S/" />
-<updated>2026-04-06T21:43:29-05:00</updated>
+<updated>2026-04-14T01:30:02-05:00</updated>
 <id>http:/ACM2026S/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -17,7 +17,119 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Quartet 5: Calculus of Variations]]></title>
+  <title type="html"><![CDATA[Quartet 6: Oscillations]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2026S/lecture/6"/>
+  <id>http:/ACM2026S/lecture/6</id>
+  <published>2026-04-20T00:00:00-05:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2026S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;acm10.pdf&quot; target=&quot;_blank&quot;&gt;acm10.pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;acm11.pdf&quot; target=&quot;_blank&quot;&gt;acm11.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/lecture/6&quot;&gt;Quartet 6: Oscillations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 20, 2026.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Homework 6: Oscillations]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2026S/homework/6"/>
+  <id>http:/ACM2026S/homework/6</id>
+  <published>2026-04-20T00:00:00-05:00</published>
+  <updated>2026-04-20T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2026S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;♣ &lt;strong&gt;Due Date: Wednesday April 29, 2026 at 4:00 PM&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;See the following lecture notes for the homework problems. 
+When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;../lecture/acm10.pdf&quot; target=&quot;_blank&quot;&gt;acm10.pdf&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;../lecture/acm11.pdf&quot; target=&quot;_blank&quot;&gt;acm11.pdf&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/homework/6&quot;&gt;Homework 6: Oscillations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 20, 2026.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 4]]></title>
+  <link rel="alternate" type="text/html" href="http:/ACM2026S/quiz/5"/>
+  <id>http:/ACM2026S/quiz/5</id>
+  <published>2026-04-08T00:00:00-05:00</published>
+  <updated>2026-04-08T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/ACM2026S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You have 70 minutes to respond to the questions and submit your answers.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Show that in a 1-dimensional elastic collision, the relative velocity of the two particles after the collision is the negative of the relative velocity before the collision (Hint: You need to invoke two conservation laws). (score : 20)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A small mass rests on top of a fixed frictionless sphere. The mass is given an extremely tiny kick to help it start sliding downward. At what point (angle with respect to the horizontal line) does it lose contact with the sphere? &lt;strong&gt;Hint&lt;/strong&gt;: Think of the minimum force required to keep the object on the surface of the sphere and how it relates to the work-energy theorem. (score : 20)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sand drops vertically (from a negligible height) at a rate $\sigma [kg/s]$ onto a moving conveyor belt.
+    &lt;ol&gt;
+      &lt;li&gt;What force must you apply to the belt to keep it moving at a constant speed v? (score : 10)&lt;/li&gt;
+      &lt;li&gt;How much kinetic energy does the sand gain per unit time? (score : 10)&lt;/li&gt;
+      &lt;li&gt;How much work do you do per unit time? (score : 5)&lt;/li&gt;
+      &lt;li&gt;How much energy is lost to heat per unit time? (score : 5)
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A straight frictionless tube is drilled between two points on the earth, as shown in the figure. An object is dropped into the tube with initial zero velocity $v_0 = 0$. Assume (incorrectly) that the density of the earth is constant.
+    &lt;ol&gt;
+      &lt;li&gt;At what point does the object feel the smallest amount of gravitational force? (score : 5)&lt;/li&gt;
+      &lt;li&gt;What is the value of this minimum force? (score : 10)&lt;/li&gt;
+      &lt;li&gt;What is the speed of the object at this point of minimum force? &lt;strong&gt;Hint&lt;/strong&gt;: Recall the differential form of the Newton equation $\mathbf{F}=m\mathbf{a}$ we discussed in class that connects the force to velocity and differentials of velocity and displacement. (score : 15)&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;figure&gt;
+    &lt;img src=&quot;http:/ACM2026S/quiz/5/sphere.png&quot; width=&quot;200&quot; /&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/quiz/5&quot;&gt;Quiz 4&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on April 08, 2026.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Quartet 5: Calculus of Variations and Lagrangian Mechanics]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2026S/lecture/5"/>
   <id>http:/ACM2026S/lecture/5</id>
   <published>2026-03-30T00:00:00-05:00</published>
@@ -33,15 +145,16 @@
   
     &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;acm8.pdf&quot; target=&quot;_blank&quot;&gt;acm8.pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;acm9.pdf&quot; target=&quot;_blank&quot;&gt;acm9.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/lecture/5&quot;&gt;Quartet 5: Calculus of Variations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 30, 2026.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/lecture/5&quot;&gt;Quartet 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 30, 2026.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Homework 5: Calculus of Variations]]></title>
+  <title type="html"><![CDATA[Homework 5: Calculus of Variations and Lagrangian Mechanics]]></title>
   <link rel="alternate" type="text/html" href="http:/ACM2026S/homework/5"/>
   <id>http:/ACM2026S/homework/5</id>
   <published>2026-03-30T00:00:00-05:00</published>
@@ -62,12 +175,13 @@
 When returning your answers, mark the sets with the corresponding lecture note numbers to make the sets distinguishable:
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;../lecture/acm8.pdf&quot; target=&quot;_blank&quot;&gt;acm8.pdf&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;../lecture/acm9.pdf&quot; target=&quot;_blank&quot;&gt;acm9.pdf&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/homework/5&quot;&gt;Homework 5: Calculus of Variations&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 30, 2026.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:/ACM2026S/homework/5&quot;&gt;Homework 5: Calculus of Variations and Lagrangian Mechanics&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/ACM2026S&quot;&gt;Advanced Classical Mechanics - Spring 2026 - MW 16:00-17:20 - Science Hall SH 129 / Microsoft Teams Virtual Room&lt;/a&gt; on March 30, 2026.&lt;/p&gt;</content>
 </entry>
 
 
@@ -189,6 +303,10 @@ $$\begin{eqnarray}
   <content type="html">
   
     
+&lt;p&gt;&lt;br /&gt;
+Here is &lt;a href=&quot;http:/ACM2026S/homework/acm-lecture-7-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm7&lt;/a&gt;.&lt;br /&gt;
+Here is &lt;a href=&quot;http:/ACM2026S/homework/acm-lecture-6-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to acm6&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;♣ &lt;strong&gt;Due Date: Wednesday April 8, 2026 at 4:00 PM&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -396,6 +514,8 @@ Justify your answer.
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
+&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2026S/homework/acm-lecture-3-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to ACM3&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday February 23, 2026 at 4:00 PM&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -518,6 +638,9 @@ b.  &lt;strong&gt;(Score: 10 / 20)&lt;/strong&gt; The alternate double cross-pro
   <content type="html">
   
     &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is &lt;a href=&quot;http:/ACM2026S/homework/acm-lecture-1-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to ACM1&lt;/a&gt;.
+Here is &lt;a href=&quot;http:/ACM2026S/homework/acm-lecture-2-solutions.pdf&quot; target=&quot;_blank&quot;&gt;the solution to ACM2&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday February 9, 2026 at 4:00 PM&lt;/strong&gt;.&lt;/p&gt;
 
